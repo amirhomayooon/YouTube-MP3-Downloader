@@ -25,7 +25,7 @@ Before running the script, make sure you have the following dependencies install
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/youtube-mp3-downloader.git
+   git clone https://github.com/amirhomayooon/youtube-mp3-downloader.git
    cd youtube-mp3-downloader
    ```
 
